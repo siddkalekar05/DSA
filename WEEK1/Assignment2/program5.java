@@ -7,7 +7,7 @@ class Num5{
 		int count=0;
 		int temp=num;
 		if(temp==0){
-			count+=1vom;
+			count+=1;
 		}else{
 			while(temp!=0){
 				temp=temp/10;
